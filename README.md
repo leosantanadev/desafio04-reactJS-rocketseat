@@ -1,4 +1,4 @@
-# 💻 Sobre o desafio
+# 💻 Desafio Rocketseat
 
 <p>Aplicação de pratos de um restaurante consumindo uma fake API com JSON server
 
